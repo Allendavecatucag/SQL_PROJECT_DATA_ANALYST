@@ -145,4 +145,4 @@ WHERE
     quarter_job_postings.job_title_short = 'Data Analyst'
 
     ORDER BY salary_y ear_avg DESC
------------------------------------------------------new--
+-----------------------------------------------------new-
