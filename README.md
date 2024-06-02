@@ -78,4 +78,4 @@ Throughout this course adventure, I've turbocharge my SQL toolkit with some seri
   
 # Conclusion
 
-This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspriring Data Analysts can better position themeselves in a competitive job market. This exploration highlights the importances of continous learning and adaptation to emerging trends in the field of Data Analytics.
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspriring Data Analysts can better position themeselves in a competitive job market. This exploration highlights the importances of continous learning and adaptation to emerging trends in the field of Data Analytics.<3
