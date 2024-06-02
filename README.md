@@ -1,1 +1,6 @@
-This is my first project as DATA ANALYST
+- Introduction
+- Background
+- Tools I Used
+- The Analysis
+- What I Learned
+  
