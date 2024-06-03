@@ -1,5 +1,5 @@
 # Introduction
-Dive into the data job market! Focusing on Data Analyst roles, this project explores 
+Dive into the data analyst job market! Focusing on Data Analyst roles, this project explores 
   - top_paying jobs
   - in_demand skills
   - Where high demand meets high salary in Data Analytics.
