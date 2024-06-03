@@ -13,8 +13,8 @@ with skills_demand AS(  --USING IS CTE
         COUNT(skills_job_dim.job_id) AS demand_count   --count on the skills 
 
     FROM job_postings_fact
-        INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id --CONNECT SA SA job_posting_fact si skills_job_dim table
-        INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id -- the connect sa si skills_job_dim table to skills_dim table
+        INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id --CONNECT first the job_posting_fact to skills_job_dim table
+        INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id -- then connect skills_job_dim table to skills_dim table
 
     WHERE 
         job_title_short = 'Data Analyst' and -- diri nimo ma filter ug sakto sa Where condition
