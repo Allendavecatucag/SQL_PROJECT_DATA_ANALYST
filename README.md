@@ -70,7 +70,12 @@ Here's the breakdown of the top Data Analyst jobs in 2023
 *This is the Bar Graph visualizing the salary for the top 10
 salaries for data analysts; Python code generated this graph from my SQL query results*
 
-  
+![Top Paying Roles in Tableau visualization](assets/assets\tableau_visualization.png)
+
+*This is the Bar Graph visualizing the salary for the top 10
+salaries for data analysts; Python code generated this graph from my SQL query results*
+
+
 # What I Learned
 Throughout this course adventure, I've turbocharge my SQL toolkit with some serious firepower:
 - **Complex Query Crafting:** Mastered the art of advanced SQL.
