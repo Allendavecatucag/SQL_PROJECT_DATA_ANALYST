@@ -70,21 +70,19 @@ Here's the breakdown of the top Data Analyst jobs in 2023
 *This is the Bar Graph visualizing the salary for the top 10
 salaries for data analysts; Python code generated this graph from my SQL query results*
 
+![alt-text](assets/tableau_visualization.png)
 
+
+*These are the two Graphs visualizing precisely  the top 10
+best salaries for data analysts jobs not just that i also labled it with company name and the exact salary year average for each data analyst jobs; **Tableau** generated this graph from my SQL query results i converted into file then open it in tableau*
 
 # What I Learned
-![Alt text](assets\tableau_visualization.png)
-
-
-*This is the Bar Graph visualizing the salary for the top 10
-salaries for data analysts; Python code generated this graph from my SQL query results*
-
 
 Throughout this course adventure, I've turbocharge my SQL toolkit with some serious firepower:
 - **Complex Query Crafting:** Mastered the art of advanced SQL.
 - **Data Aggregation:** Like Group By and turned aggregate functions like COUNT() and AVG() in my data_summarizing sidekicks.
 - **Analytical thinking:** Leveld up my real-world puzzle-solving skills, turning question into actionable,insightful SQL queries.
   
-# Conclusion
+  # Conclusion
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspriring Data Analysts can better position themeselves in a competitive job market. This exploration highlights the importances of continous learning and adaptation to emerging trends in the field of Data Analytics.<3
