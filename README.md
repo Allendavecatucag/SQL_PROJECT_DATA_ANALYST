@@ -4,7 +4,7 @@ Dive into the data analyst job market! Focusing on Data Analyst roles, this proj
   - in_demand skills
   - Where high demand meets high salary in Data Analytics.
      
-SQL queries? Check them out here: [project_sql folder](/project_sql/)
+SQL queries? Check them out here: [project_sql folder](/Project_sql/)
 
 # Background
 This project was born from desire to pinpoint top-paid and in-demand skills, streaming others work to find optimal jobs.
