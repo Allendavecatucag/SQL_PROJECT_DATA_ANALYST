@@ -15,7 +15,8 @@ SELECT
 
 FROM
     job_postings_fact
-LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id --join all rows from the left table, and the matching rows from the right table. The result is NULL from the right side, if there is no match.
+
 
 where 
     job_title_short = 'Data Analyst' and
